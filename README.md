@@ -4,7 +4,7 @@
 # https://blog.csdn.net/weixin_44306683/article/details/106355509
 # https://www.cnblogs.com/rapale/p/13863511.html
 
-# simple-music
+# webpack_vue
 
 ## Project setup
 ```
@@ -13,15 +13,9 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
