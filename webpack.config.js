@@ -22,7 +22,7 @@ module.exports = {
 		proxy: {
 			//哪些访问需要代理转发
 			'/api': {
-				target: 'http://47.110.129.207',//目标服务器
+				target: 'http://192.168.0.1',//目标服务器
 				changeOrigin: true,
 				secure: false,
 				credentials: 'include',
